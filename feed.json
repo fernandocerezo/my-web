@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Fernando Cerezo",
+    "description": "",
+    "home_page_url": "https://fernandocerezo.github.io/my-web",
+    "feed_url": "https://fernandocerezo.github.io/my-web/feed.json",
+    "user_comment": "",
+    "icon": "https://fernandocerezo.github.io/my-web/media/website/f_rnd.png",
+    "author": {
+        "name": "Fernando Cerezo"
+    },
+    "items": [
+    ]
+}
